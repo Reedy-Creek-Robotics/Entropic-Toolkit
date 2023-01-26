@@ -8,12 +8,12 @@ The Tile edge detector is a useful alternative to odometry that is easy to imple
 
 This program is intended only to be used with the FIRST FTC robot controller. Using it elsewhere may have unforseen consequences.
 
+## Image calibration and camera mounting
+A requisite for the image processing to work is accurate calibration of the camera field of view and that field of view's relationship to the robot center. To accomplish this we recommend that a sturdy camera mount be fabricated and that it be mounted in such a way that bumping the camera mount does not shift camera. We used a gridded sewing mat placed within the field of view of the camera to generate reference points for the calibration. 
+
 ## Installation 
 **EasyOpenCV needs to be installed for this to work.**
 Please follow directions [here](https://github.com/OpenFTC/EasyOpenCV#installation-instructions-android-studio) to install EasyOpenCV.
-
-## Dependencies
-EasyOpenCV
 
 ## Background research
 [Hough Transform Wiki](https://en.wikipedia.org/wiki/Hough_transform)
