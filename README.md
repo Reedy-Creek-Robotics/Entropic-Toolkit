@@ -8,7 +8,7 @@ The Tile edge detector is a useful alternative to odometry that is easy to imple
 
 This program is intended only to be used with the FIRST FTC robot controller. Using it elsewhere may have unforseen consequences.
 
-![Hough Transform in Action](/media/Hough Image.jpg)
+![/media/Hough Image.jpg](https://github.com/Reedy-Creek-Robotics/Entropic-Toolkit/blob/main/media/Hough%20Image.jpg)
 
 
 ## Image calibration and camera mounting
