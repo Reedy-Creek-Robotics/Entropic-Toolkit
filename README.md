@@ -14,6 +14,9 @@ This program is intended only to be used with the FIRST FTC robot controller. Us
 ## Image calibration and camera mounting
 A requisite for the image processing to work is accurate calibration of the camera field of view and that field of view's relationship to the robot center. To accomplish this we recommend that a sturdy camera mount be fabricated and that it be mounted in such a way that bumping the camera mount does not shift the camera. We used a gridded sewing mat placed within the field of view of the camera to generate reference points for the calibration. 
 
+![/media/CalibrationMat.jpg](https://github.com/Reedy-Creek-Robotics/Entropic-Toolkit/blob/main/media/CalibrationMat.jpg)
+![/media/RobotAndCalibrationMat.jpg](https://github.com/Reedy-Creek-Robotics/Entropic-Toolkit/blob/main/media/RobotAndCalibrationMat.jpg)
+
 ## Installation 
 **EasyOpenCV needs to be installed for this to work.**
 Please follow directions [here](https://github.com/OpenFTC/EasyOpenCV#installation-instructions-android-studio) to install EasyOpenCV.
