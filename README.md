@@ -6,7 +6,7 @@ Each year, FIRST FTC releases a game that is played on a 12 ft x 12 ft field mad
 ## General overview
 The Tile edge detector is a useful alternative to odometry that is easy to implement and can localize your position on the field. What is needed to implement Tile Edge Dection is a webcam looking down at the field. Through a mathematical formula called a Hough Transform and calibration for your bot the program will spit out how far away you are from the tile edge and in turn your position on the field.
 
-This program is intended only to be used with the FIRST FTC robot controller. Using it elsewhere may have unforseen consequences.
+This code is intended only to be used with the FIRST FTC robot controller.
 
 ![/media/Hough Image.jpg](https://github.com/Reedy-Creek-Robotics/Entropic-Toolkit/blob/main/media/Hough%20Image.jpg)
 
