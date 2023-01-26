@@ -14,3 +14,4 @@ To be determined
 EasyOpenCV
 
 ## Background research
+[Hough Transform Wiki](https://en.wikipedia.org/wiki/Hough_transform)
