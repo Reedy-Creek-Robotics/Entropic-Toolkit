@@ -1,0 +1,4 @@
+include 'drivetrain'
+include 'geometry'
+
+rootProject.name = 'entropic-toolkit'
